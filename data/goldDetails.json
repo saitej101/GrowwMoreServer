@@ -1,0 +1,25 @@
+{
+  "buyPrice": "4,822.05",
+  "sellPrice": "4,661.98",
+
+  "goldBenefits": [
+    {
+      "id": "GoldBenefit-1",
+      "icon": "lock",
+      "title": "100% Secure",
+      "subTitle": "Stored in insured & guarded vaults"
+    },
+    {
+      "id": "GoldBenefit-2",
+      "icon": "currency-inr",
+      "title": "Zero making charges",
+      "subTitle": "Live Market Prices only. No making charge"
+    },
+    {
+      "id": "GoldBenefit-3",
+      "icon": "tune",
+      "title": "Diversify",
+      "subTitle": "Balance your portfolio. Reduce risk concentration"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "PopularFunds": [
+    {
+      "id": "MF100",
+      "fundName": "ICICI Prudential Technology",
+      "scheme": "Direct Plan",
+      "fundType": "Sectoral/Thematic",
+      "fundRating": 5,
+      "OneYearReturn": "15",
+      "ThreeYearReturn": "25",
+      "FiveYearReturn": "18",
+      "logo": "icici_logo.png"
+    },
+    {
+      "id": "MF101",
+      "fundName": "Axis Bluechip Fund",
+      "scheme": "Direct Plan Growth",
+      "fundType": "Large Cap",
+      "fundRating": 5,
+      "OneYearReturn": "14.6",
+      "ThreeYearReturn": "22",
+      "FiveYearReturn": "16",
+      "logo": "axis_logo.png"
+    },
+    {
+      "id": "MF102",
+      "fundName": "Tata Digital India Fund",
+      "scheme": "Direct Growth",
+      "fundType": "Sectoral/Thematic",
+      "fundRating": 4,
+      "OneYearReturn": "113.3",
+      "ThreeYearReturn": "25",
+      "FiveYearReturn": "22.1",
+      "logo": "tata_logo.png"
+    },
+    {
+      "id": "MF103",
+      "fundName": "SBI Small Cap Fund",
+      "scheme": "Direct Growth",
+      "fundType": "Small Cap",
+      "fundRating": 4,
+      "OneYearReturn": "84.7",
+      "ThreeYearReturn": "11.8",
+      "FiveYearReturn": "21.5",
+      "logo": "sbi_logo.png"
+    }
+  ],
+
+  "allFunds": [
+    {
+      "id": "MF100",
+      "fundName": "ICICI Prudential Technology",
+      "scheme": "Direct Plan",
+      "fundType": "Sectoral/Thematic",
+      "fundRating": 5,
+      "OneYearReturn": "15",
+      "ThreeYearReturn": "25",
+      "FiveYearReturn": "18",
+      "logo": "icici_logo.png"
+    },
+    {
+      "id": "MF101",
+      "fundName": "Axis Bluechip Fund",
+      "scheme": "Direct Plan Growth",
+      "fundType": "Large Cap",
+      "fundRating": 5,
+      "OneYearReturn": "14.6",
+      "ThreeYearReturn": "22",
+      "FiveYearReturn": "16",
+      "logo": "axis_logo.png"
+    },
+    {
+      "id": "MF102",
+      "fundName": "Tata Digital India Fund",
+      "scheme": "Direct Growth",
+      "fundType": "Sectoral/Thematic",
+      "fundRating": 4,
+      "OneYearReturn": "113.3",
+      "ThreeYearReturn": "25",
+      "FiveYearReturn": "22.1",
+      "logo": "tata_logo.png"
+    },
+    {
+      "id": "MF103",
+      "fundName": "SBI Small Cap Fund",
+      "scheme": "Direct Growth",
+      "fundType": "Small Cap",
+      "fundRating": 4,
+      "OneYearReturn": "84.7",
+      "ThreeYearReturn": "11.8",
+      "FiveYearReturn": "21.5",
+      "logo": "sbi_logo.png"
+    },
+    {
+      "id": "MF104",
+      "fundName": "ICICI Prudential Short Term Fund",
+      "scheme": "Direct Growth",
+      "fundType": "Debt",
+      "fundRating": 5,
+      "OneYearReturn": "9.3",
+      "ThreeYearReturn": "9.5",
+      "FiveYearReturn": "9.0",
+      "logo": "icici_logo.png"
+    },
+    {
+      "id": "MF105",
+      "fundName": "SBI Bluechip Fund",
+      "scheme": "Direct Growth",
+      "fundType": "Large Cap",
+      "fundRating": 3,
+      "OneYearReturn": "64.5",
+      "ThreeYearReturn": "11.4",
+      "FiveYearReturn": "13.6",
+      "logo": "sbi_logo.png"
+    }
+  ]
+}

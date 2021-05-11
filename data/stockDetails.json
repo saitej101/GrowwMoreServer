@@ -1,0 +1,201 @@
+{
+  "MarketIndices": [
+    {
+      "id": "NIFTY50_INDICE",
+      "title": "NIFTY 50",
+      "benchMark": "NSE",
+      "value": "14,563.15",
+      "changeValue": "-305.20",
+      "changeRate": "2.05"
+    },
+    {
+      "id": "SENSEX_INDICE",
+      "title": "SENSEX",
+      "benchMark": "BSE",
+      "value": "48,995.15",
+      "changeValue": "-1034.82",
+      "changeRate": "2.07"
+    }
+  ],
+
+  "StocksInNews": [
+    {
+      "id": "ST100",
+      "title": "Hindustan Zinc",
+      "value": "292.50",
+      "changeValue": "4.75",
+      "changeRate": "1.6",
+      "isPositiveChange": false,
+      "logo": "hindustan_zinc_logo.png"
+    },
+    {
+      "id": "ST203",
+      "title": "HDFC Bank",
+      "value": "1445.90",
+      "changeValue": "10.25",
+      "changeRate": "1.52",
+      "isPositiveChange": false,
+      "logo": "hdfc_bank_logo.png"
+    },
+    {
+      "id": "ST105",
+      "title": "Maruti Suzuki",
+      "value": "6832.85",
+      "changeValue": "64.45",
+      "changeRate": "0.95",
+      "isPositiveChange": true,
+      "logo": "maruti_suz_logo.png"
+    },
+    {
+      "id": "ST101",
+      "title": "Tata Steel",
+      "value": "869.65",
+      "changeValue": "6.60",
+      "changeRate": "0.76",
+      "isPositiveChange": true,
+      "logo": "tata_steel_logo.png"
+    },
+    {
+      "id": "ST102",
+      "title": "Britannia India",
+      "value": "3700.50",
+      "changeValue": "82.00",
+      "changeRate": "2.27",
+      "isPositiveChange": true,
+      "logo": "brittania_logo.png"
+    },
+
+    {
+      "id": "ST206",
+      "title": "CIPLA",
+      "value": "1418.85",
+      "changeValue": "8.95",
+      "changeRate": "0.53",
+      "isPositiveChange": true,
+      "logo": "cipla_logo.png"
+    },
+    {
+      "id": "ST207",
+      "title": "BATA",
+      "value": "292.50",
+      "changeValue": "4.75",
+      "changeRate": "1.6",
+      "isPositiveChange": false,
+      "logo": "bata_logo.png"
+    }
+  ],
+
+  "TopGainerStocks": [
+    {
+      "id": "ST110",
+      "title": "Asian Paints",
+      "value": "2598.90",
+      "changeValue": "88.25",
+      "changeRate": "3.52",
+      "isPositiveChange": true,
+      "logo": "asian_paints_logo.png"
+    },
+    {
+      "id": "ST112",
+      "title": "Bharti Airtel",
+      "value": "535.34",
+      "changeValue": "7.55",
+      "changeRate": "1.43",
+      "isPositiveChange": true,
+      "logo": "bharti_airtel_logo.png"
+    },
+    {
+      "id": "ST113",
+      "title": "ITC",
+      "value": "213.50",
+      "changeValue": "1.20",
+      "changeRate": "0.67",
+      "isPositiveChange": true,
+      "logo": "itc_logo.png"
+    },
+    {
+      "id": "ST102",
+      "title": "Britannia India",
+      "value": "3700.50",
+      "changeValue": "82.00",
+      "changeRate": "2.27",
+      "isPositiveChange": true,
+      "logo": "brittania_logo.png"
+    },
+    {
+      "id": "ST207",
+      "title": "BATA",
+      "value": "292.50",
+      "changeValue": "4.75",
+      "changeRate": "1.6",
+      "isPositiveChange": true,
+      "logo": "bata_logo.png"
+    },
+    {
+      "id": "ST211",
+      "title": "Axis Bank",
+      "value": "697.50",
+      "changeValue": "4.45",
+      "changeRate": "1.36",
+      "isPositiveChange": true,
+      "logo": "axis_logo.png"
+    }
+  ],
+
+  "TopLoosers": [
+    {
+      "id": "ST201",
+      "title": "Torrent Pharma",
+      "value": "2252.50",
+      "changeValue": "25.35",
+      "changeRate": "0.98",
+      "isPositiveChange": false,
+      "logo": "torrent_pharma_logo.png"
+    },
+    {
+      "id": "ST203",
+      "title": "HDFC Bank",
+      "value": "1445.90",
+      "changeValue": "10.25",
+      "changeRate": "1.52",
+      "isPositiveChange": false,
+      "logo": "hdfc_bank_logo.png"
+    },
+    {
+      "id": "ST202",
+      "title": "Bajaj Finance Ltd",
+      "value": "5060.10",
+      "changeValue": "16.95",
+      "changeRate": "0.33",
+      "isPositiveChange": false,
+      "logo": "bajaj_fin_logo.png"
+    },
+    {
+      "id": "ST204",
+      "title": "Adani Energy",
+      "value": "1172.25",
+      "changeValue": "23.55",
+      "changeRate": "2.00",
+      "isPositieChange": false,
+      "logo": "adani_energy_logo.png"
+    },
+    {
+      "id": "ST205",
+      "title": "Bajaj Auto",
+      "value": "3671.50",
+      "changeValue": "9.5",
+      "changeRate": "0.25",
+      "isPositiveChange": false,
+      "logo": "bajaj_auto_logo.png"
+    },
+    {
+      "id": "ST207",
+      "title": "BATA",
+      "value": "292.50",
+      "changeValue": "4.75",
+      "changeRate": "1.6",
+      "isPositiveChange": false,
+      "logo": "bata_logo.png"
+    }
+  ]
+}
